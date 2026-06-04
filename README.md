@@ -1,5 +1,5 @@
 # Olá, eu sou o Gabriel Farias! 👋
-### Engenheiro de Dados & Desenvolvedor Backend
+### Engenheiro de Dados
 
 Me chamo Gabriel Farias, tenho 20 anos e sou natural de Recife/PE. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **CESAR School**, focado em engenharia de dados, automação de processos, infraestrutura e desenvolvimento backend.
 
