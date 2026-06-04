@@ -57,8 +57,8 @@ Me chamo Gabriel Farias, tenho 20 anos e sou natural de Recife/PE. Atualmente, e
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-git.vercel.app/api?username=gabrielfariaxs&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true" alt="Estatísticas do GitHub de Gabriel Farias" />
-  <img height="180" src="https://github-readme-stats-git.vercel.app/api/top-langs/?username=gabrielfariaxs&layout=compact&theme=dark&locale=pt-br&hide=css,html" alt="Linguagens mais utilizadas por Gabriel Farias" />
+  <img height="180" src="https://github-readme-stats-one.vercel.app/api?username=gabrielfariaxs&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true" alt="Estatísticas do GitHub de Gabriel Farias" />
+  <img height="180" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=gabrielfariaxs&layout=compact&theme=dark&locale=pt-br&hide=css,html" alt="Linguagens mais utilizadas por Gabriel Farias" />
 </div>
 
 <div align="center">
